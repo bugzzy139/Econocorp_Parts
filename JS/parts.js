@@ -1400,6 +1400,22 @@ const parts = [
     "Manufacturer": "SMC"
   },
   {
+    "PartNum": "P111500",
+    "Description": "CDG1DA32TN-25Z-NV-XC37 CYLINDER 32MM BORE 25MM STROKE (note comes w/P107135 I-G03)",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "SMC"
+  },
+  {
+    "PartNum": "P104192",
+    "Description": "CRB1BW50-90D ROTARY ACTUATOR",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "SMC"
+  },
+  {
     "PartNum": "P109308",
     "Description": "(I) CDG1DA32TN-50Z-NV-XC37 CYLINDER 32MM BORE 50MM STROKE (note comes w/P107135 I-G03)",
     "Bay": 2,
@@ -1416,24 +1432,16 @@ const parts = [
     "Manufacturer": "SMC"
   },
   {
+    "PartNum": "P101406",
+    "Description": "CDG1DA50-100Z-XC37 = New P/N (was CDG1DA50-100-XC37) CYLINDER 50MM BORE 100MM STROKE",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "SMC"
+  },
+  {
     "PartNum": "P101316",
     "Description": "CDG1DA50-50-XC37 CYLINDER 50MM BORE 50MM STROKE",
-    "Bay": 2,
-    "Shelf": "c",
-    "SubShelf": "u",
-    "Manufacturer": "SMC"
-  },
-  {
-    "PartNum": "P111500",
-    "Description": "CDG1DA32TN-25Z-NV-XC37 CYLINDER 32MM BORE 25MM STROKE (note comes w/P107135 I-G03)",
-    "Bay": 2,
-    "Shelf": "c",
-    "SubShelf": "u",
-    "Manufacturer": "SMC"
-  },
-  {
-    "PartNum": "P104192",
-    "Description": "CRB1BW50-90D ROTARY ACTUATOR",
     "Bay": 2,
     "Shelf": "c",
     "SubShelf": "u",

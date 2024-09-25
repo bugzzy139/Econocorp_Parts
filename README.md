@@ -25,3 +25,4 @@ This can be useful to select multiple different items and then print out the web
 - [x] Create a website that can be accessed by different computers that displays the location of different parts by their part number
 - [ ] Include information about the stock of each part.
 - [ ] Develop a re-order point for each part based off of purchase amount & frequency.
+- [ ] Make a drop-down to select a manufacturer
