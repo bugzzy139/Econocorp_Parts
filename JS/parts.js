@@ -2192,6 +2192,14 @@ const parts = [
     "Manufacturer": "MCMASTER-CARR"
   },
   {
+    "PartNum": "P109108",
+    "Description": "9287K144 Type 302 SS Torsion Spring, 270 Degree Angle, 1.660in Spring OD, .135in Wire, Right-Hand",
+    "Bay": 3,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "MCMASTER-CARR"
+  },
+  {
     "PartNum": "MISC",
     "Description": "Springs",
     "Bay": 3,
@@ -3398,6 +3406,14 @@ const parts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "FESTO"
+  },
+  {
+    "PartNum": "P108931",
+    "Description": "(I) PZ-G102CB Self-Contained Photo Sensor,Definite refective/Threaded/M12QD",
+    "Bay": 11,
+    "Shelf": "a",
+    "SubShelf": "n",
+    "Manufacturer": "KEYENCE"
   },
   {
     "PartNum": "???",
