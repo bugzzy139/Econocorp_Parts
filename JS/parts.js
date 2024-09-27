@@ -1448,6 +1448,14 @@ const parts = [
     "Manufacturer": "SMC"
   },
   {
+    "PartNum": "P101406",
+    "Description": "CDG1DA50-100Z-XC37 = New P/N (was CDG1DA50-100-XC37) CYLINDER 50MM BORE 100MM STROKE",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "SMC"
+  },
+  {
     "PartNum": "P106359",
     "Description": "(I) CDG1BA32-250-XC37 CYLINDER",
     "Bay": 2,
