@@ -2920,12 +2920,20 @@ const parts = [
     "Manufacturer": "BOSTON GEAR"
   },
   {
-    "PartNum": "???",
-    "Description": "TW10",
+    "PartNum": "P101938",
+    "Description": "LMBS-8 1/2IN LINEAR BEARING (nippon bearing sub OK TW-8)",
     "Bay": 4,
     "Shelf": "c",
     "SubShelf": "u",
-    "Manufacturer": "???"
+    "Manufacturer": "THK"
+  },
+  {
+    "PartNum": "P101529",
+    "Description": "TW10 SLIDE BUSHING",
+    "Bay": 4,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "NIPPON"
   },
   {
     "PartNum": "P101936",
