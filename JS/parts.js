@@ -1080,6 +1080,14 @@ const parts = [
     "Manufacturer": "SMC"
   },
   {
+    "PartNum": "P102947",
+    "Description": "(I) KQL11-U02 90 DEGREE 3/8 FITTING (purchase qty 10pcs)",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "SMC"
+  },
+  {
     "PartNum": "P103038",
     "Description": "CG1A40-PS 40MM BORE CYLINDER REPAIR KIT",
     "Bay": 2,
