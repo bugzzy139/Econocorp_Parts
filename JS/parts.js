@@ -1048,6 +1048,14 @@ const parts = [
     "Manufacturer": "SMC"
   },
   {
+    "PartNum": "P108791",
+    "Description": "MY-A40L SHOCK ABSORBER AND BRACKET FOR MY1B40 CYLINDER",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "SMC"
+  },
+  {
     "PartNum": "P105151",
     "Description": "RHC40-PS 40MM CYLINDER SEAL KIT",
     "Bay": 2,
@@ -1242,6 +1250,14 @@ const parts = [
   {
     "PartNum": "P104823",
     "Description": "CDQ2B40-20DM CYLINDER",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "SMC"
+  },
+  {
+    "PartNum": "P106657",
+    "Description": "CDQ2A50-75DCZ = New P/N (was CDQ2A50-75DC) CYLINDER 50MM BORE 75MM STROKE (Metric ports and threads)",
     "Bay": 2,
     "Shelf": "b",
     "SubShelf": "l",
