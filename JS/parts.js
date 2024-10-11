@@ -1512,6 +1512,14 @@ const parts = [
     "Manufacturer": "SMC"
   },
   {
+    "PartNum": "P104414",
+    "Description": "CDG1BA32-560Z-XC37 = New P/N (was CDG1BA32-560-XC37-142US) CYLINDER 32MM BORE 560MM STROKE",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "SMC"
+  },
+  {
     "PartNum": "P101239",
     "Description": "(I) CDG1BA40-380Z-XC-37 = New P/N (was CDG1BA40-380-XC37) CYLINDER 40MM BORE 380MM STROKE",
     "Bay": 2,
