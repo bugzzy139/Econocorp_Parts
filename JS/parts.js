@@ -3120,6 +3120,14 @@ const parts = [
     "Manufacturer": "FORMSPRAG"
   },
   {
+    "PartNum": "P101806",
+    "Description": "7616 DLG 1IN ID RADIAL BALL BEARING WITH SNAP RING use RBC BEARING ONLY (NO SUBSTITUTIONS)",
+    "Bay": 4,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "RBC BEARINGS"
+  },
+  {
     "PartNum": "P104079",
     "Description": "UCPAN-205-16 1IN DIA TAPPED BASE UNIT",
     "Bay": 4,

@@ -26,3 +26,6 @@ This can be useful to select multiple different items and then print out the web
 - [ ] Include information about the stock of each part.
 - [ ] Develop a re-order point for each part based off of purchase amount & frequency.
 - [ ] Make a drop-down to select a manufacturer
+- [ ] Make the search bar stay at the top of the screen and follow while scrolling + make pressing 'Enter' actually search
+- [ ] Make it so that when you type in a part, jump to where it's located
+- [ ] Display an alert if the part searched doesn't return anything
