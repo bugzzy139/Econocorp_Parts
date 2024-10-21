@@ -1696,6 +1696,14 @@ const parts = [
     "Manufacturer": "SMC"
   },
   {
+    "PartNum": "P109508",
+    "Description": "MY1B25-360Z RODLESS CYLINDER 25MM BORE 360MM STROKE",
+    "Bay": 2,
+    "Shelf": "d",
+    "SubShelf": "l",
+    "Manufacturer": "SMC"
+  },
+  {
     "PartNum": "P105027",
     "Description": "HS062040001 - HS62-4/585W240V/SF1-12 SUPERWATT CARTRIDGE HEATERS 5/8in HEATER DIA 4in LTH",
     "Bay": 3,
