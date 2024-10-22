@@ -263,7 +263,6 @@ a.baynavbutton:hover {
     color: var(--color-item-text);
     background-color: var(--color-item-bg);
     font-weight: 500;
-    font-size: 1rem;
     align-content: center;
     padding: 5px;
     border: solid 1px;
@@ -272,12 +271,16 @@ a.baynavbutton:hover {
     transition: all 0.2s ease;
 }
 
+.container p {
+    transition: all 0.2s ease;
+}
+
 .upper {
     background-color: var(--color-subshelf-upper-bg);
     box-sizing: border-box;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: repeat(16, minmax(0, 1fr));
+    grid-template-rows: repeat(4, 1fr);
 }
 
 .upper .container:hover {
@@ -289,9 +292,9 @@ a.baynavbutton:hover {
 .lower {
     background-color: var(--color-subshelf-lower-bg);
     box-sizing: border-box;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: repeat(16, minmax(0, 1fr));
+    grid-template-rows: repeat(4, 1fr);
 }
 
 .lower .container:hover {
@@ -315,4 +318,8 @@ a.baynavbutton:hover {
 .selected {
     color:var(--color-selected-text);
     background-color: var(--color-selected-bg);
+}
+
+.hidden {
+    font-size: 0px;
 }
