@@ -61,7 +61,11 @@ header {
     box-sizing: border-box;
     display: flex;
     height: 100px;
+    width: 100%;
     padding: 3px 7px;
+
+    position: sticky;
+    top: 0px;
 
     background-color: var(--color-header-bg);
     color: var(--color-header-text);
@@ -107,8 +111,54 @@ em {
 }
 
 .baymap menu {
-    display: flex;
+    display: grid;
     list-style-type: none;
+    grid-template-columns: repeat(10, 48px);
+    grid-template-rows: repeat(7, 48px);
+}
+
+#bnb01 {
+    grid-area: 6 / 1 / span 2 / span 1;
+}
+
+#bnb02 {
+    grid-area: 4 / 1 / span 2 / span 1;
+}
+
+#bnb03 {
+    grid-area: 2 / 1 / span 2 / span 1;
+}
+
+#bnb04 {
+    grid-area: 1 / 2 / span 1 / span 2;
+}
+
+#bnb05 {
+    grid-area: 1 / 4 / span 1 / span 2;
+}
+
+#bnb06 {
+    grid-area: 1 / 6 / span 1 / span 2;
+}
+
+#bnb07 {
+    grid-area: 1 / 8 / span 1 / span 2;
+}
+
+#bnb08 {
+    grid-area: 2 / 10 / span 2 / span 1;
+}
+
+#bnb09 {
+    grid-area: 4 / 10 / span 2 / span 1;
+}
+
+#bnb10 {
+    grid-area: 6 / 3 / span 2 / span 1;
+}
+
+#bnb11 {
+    grid-area: 4 / 3 / span 2 / span 1;
 }
 
 a.baynavbutton {
@@ -268,6 +318,9 @@ a.baynavbutton:hover {
     border: solid 1px;
     border-color: var(--color-item-border);
     margin: 3px 2px;
+
+    scroll-margin-top: 100px;
+
     transition: all 0.2s ease;
 }
 
