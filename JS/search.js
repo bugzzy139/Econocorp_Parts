@@ -33,6 +33,27 @@ function searchThroughContainers(searchString){
     matchedResults[0].scrollIntoView({ behavior: "smooth", block: "start", inline: "nearest"});
 }
 
+function resetAllContainers(){
+    let containerArray = document.getElementsByClassName('container');
+
+    let matchedResults = [];
+
+    for(let i = 0; i < containerArray.length; i++){
+        let container = containerArray[i];
+
+        if(container.classList.contains("selected")){
+            toggleItemDisplay(container);
+            matchedResults.push(container);
+        }
+    }
+
+    if(matchedResults.length === 0){
+        window.alert("Nothing to clear");
+    }
+
+    console.log(`${matchedResults.length} items reset`);
+}
+
 function search(){
     let searchString = document.getElementById('search-bar').value;
     //select all items that have elements that match the search string
@@ -40,8 +61,14 @@ function search(){
 }
 
 let searchForm = document.getElementById('searchForm');
+let clearBtn = document.getElementById('clearSelectedParts-btn');
 
 searchForm.addEventListener('submit', (event) => {
     event.preventDefault();
     search();
+});
+
+clearBtn.addEventListener('click', (event) => {
+    event.preventDefault();
+    resetAllContainers();
 });
