@@ -29,3 +29,4 @@ This can be useful to select multiple different items and then print out the web
 - [x] Make the search bar stay at the top of the screen and follow while scrolling + make pressing 'Enter' actually search
 - [x] Make it so that when you type in a part, jump to where it's located
 - [x] Display an alert if the part searched doesn't return anything
+- [ ] Be able to re-do selected pieces if a search is cleared (history bar that tracks actions?)

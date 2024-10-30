@@ -2574,10 +2574,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "HOTWATT",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -2586,10 +2586,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "ECONOCORP",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P103466",
@@ -2598,10 +2598,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "KEBCO",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
   },
   {
     "PartNum": "P106449",
@@ -2610,10 +2610,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P101087",
@@ -2622,10 +2622,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "CROWN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 2,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P103390",
@@ -2634,10 +2634,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "BALDOR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101381",
@@ -2646,10 +2646,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "KB",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P107184",
@@ -2658,10 +2658,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "KB",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P109529",
@@ -2670,10 +2670,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "KB",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P108786",
@@ -2682,10 +2682,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "MCMASTER-CARR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P104498",
@@ -2694,10 +2694,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "LEE SPRING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101869",
@@ -2706,10 +2706,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "LEE SPRING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P100369",
@@ -2718,10 +2718,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "HARDWARE PRODUCTS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P101184",
@@ -2730,10 +2730,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "GAVAZZI",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101276",
@@ -2742,10 +2742,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "GAVAZZI",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 2,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101076",
@@ -2754,10 +2754,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "CRYDOM",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104231",
@@ -2766,10 +2766,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "PEPPERL & FUCHS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101345",
@@ -2778,10 +2778,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "BALLUFF",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P106358",
@@ -2790,10 +2790,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "BALLUFF",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101578",
@@ -2802,10 +2802,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P111054",
@@ -2814,10 +2814,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "PHOENIX CONTACT",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100854",
@@ -2826,10 +2826,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "GAVAZZI",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101107",
@@ -2838,10 +2838,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "BALDOR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101109",
@@ -2850,10 +2850,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "BALDOR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P107963",
@@ -2862,10 +2862,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P108189",
@@ -2874,10 +2874,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101515",
@@ -2886,10 +2886,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101516",
@@ -2898,10 +2898,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P106767",
@@ -2910,10 +2910,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101742",
@@ -2922,10 +2922,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P103936",
@@ -2934,10 +2934,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P107034",
@@ -2946,10 +2946,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P107233",
@@ -2958,10 +2958,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104530",
@@ -2970,10 +2970,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 15,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104537",
@@ -2982,10 +2982,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 16,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -2994,10 +2994,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "MISC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 3
   },
   {
     "PartNum": "???",
@@ -3006,10 +3006,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 2,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 3
   },
   {
     "PartNum": "P103347",
@@ -3018,10 +3018,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SAMUEL PKG",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P601827",
@@ -3030,10 +3030,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SAGINAW",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P107041",
@@ -3042,10 +3042,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "EDWARDS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101918",
@@ -3054,10 +3054,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SENTROL",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P104787",
@@ -3066,10 +3066,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P107215",
@@ -3078,10 +3078,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101324",
@@ -3090,10 +3090,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P100246",
@@ -3102,10 +3102,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "WARNER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 4,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P108188",
@@ -3114,10 +3114,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101981",
@@ -3126,10 +3126,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "FACTORYMATION",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P106456",
@@ -3138,10 +3138,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101588",
@@ -3150,10 +3150,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P109242",
@@ -3162,10 +3162,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101669",
@@ -3174,10 +3174,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 1,
+    "SizeX": 3,
+    "SizeY": 2
   },
   {
     "PartNum": "P106406",
@@ -3186,10 +3186,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 3,
+    "SizeX": 3,
+    "SizeY": 1
   },
   {
     "PartNum": "P104467",
@@ -3198,10 +3198,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 4,
+    "SizeX": 3,
+    "SizeY": 1
   },
   {
     "PartNum": "P105030",
@@ -3210,10 +3210,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "MAC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100737",
@@ -3222,10 +3222,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "MAC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 2,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101363",
@@ -3234,10 +3234,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "ENIDINE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100435",
@@ -3246,10 +3246,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "ENIDINE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100352",
@@ -3258,10 +3258,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "BUSSMANN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100761",
@@ -3270,10 +3270,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "BUSSMANN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P103308",
@@ -3282,10 +3282,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "FERRAZ SHAWMUT",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100819",
@@ -3294,10 +3294,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "BUSSMANN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P102924",
@@ -3306,10 +3306,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "FERRAZ SHAWMUT",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P106069",
@@ -3318,10 +3318,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "FERRAZ SHAWMUT",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P105116",
@@ -3330,10 +3330,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "BUSSMANN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P103289",
@@ -3342,10 +3342,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "CPC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P105412",
@@ -3354,10 +3354,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "SAMUEL PKG",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P108786",
@@ -3366,10 +3366,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "MCMASTER-CARR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P109108",
@@ -3378,10 +3378,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "MCMASTER-CARR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 15,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -3390,10 +3390,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "MISC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 16,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101349",
@@ -3402,10 +3402,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "MAC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100814",
@@ -3414,10 +3414,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "MAC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 2,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P108500",
@@ -3426,10 +3426,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "WEISS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100176",
@@ -3438,10 +3438,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "WEISS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101547",
@@ -3450,10 +3450,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "NORGREN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "???",
@@ -3462,10 +3462,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100840",
@@ -3474,10 +3474,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "TANYX",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P106709",
@@ -3486,10 +3486,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "LECHLER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P100867",
@@ -3498,10 +3498,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "TANYX",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P106602",
@@ -3510,10 +3510,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "3M",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P111245",
@@ -3522,10 +3522,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "DEKKA",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P110905",
@@ -3534,10 +3534,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "DEKKA",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104599",
@@ -3546,10 +3546,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "SAMUEL PKG",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104600",
@@ -3558,10 +3558,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "SAMUEL PKG",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P103050",
@@ -3570,10 +3570,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "ARO",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101982",
@@ -3582,10 +3582,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "ARO",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P106699",
@@ -3594,10 +3594,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "MCMASTER-CARR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P105933",
@@ -3606,10 +3606,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "MCMASTER-CARR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P105397",
@@ -3618,10 +3618,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "MISUMI",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 15,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P106451",
@@ -3630,10 +3630,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "APEX DYNAMICS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101882",
@@ -3642,10 +3642,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "SEW-EURODRIVE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 2,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P100398",
@@ -3654,10 +3654,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "WARNER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -3666,10 +3666,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "QC INDUSTRIES",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
   },
   {
     "PartNum": "P109503",
@@ -3678,10 +3678,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P104050",
@@ -3690,10 +3690,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P104117",
@@ -3702,10 +3702,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "LEESON ELECTRIC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P101723",
@@ -3714,10 +3714,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "BODINE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P103242",
@@ -3726,10 +3726,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "BALDOR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P100933",
@@ -3738,10 +3738,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "LEESON ELECTRIC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P108180",
@@ -3750,10 +3750,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "REXNORD",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -3762,10 +3762,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "REXNORD",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P103034",
@@ -3774,10 +3774,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "REXNORD",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "9075-104-L",
@@ -3786,10 +3786,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "REXNORD",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P601302",
@@ -3798,10 +3798,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "REXNORD",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 2,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P600625",
@@ -3810,10 +3810,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "REXNORD",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
   },
   {
     "PartNum": "P100420",
@@ -3822,10 +3822,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "REXNORD",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
   },
   {
     "PartNum": "P602739",
@@ -3834,10 +3834,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "REXNORD",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 4
   },
   {
     "PartNum": "P109184",
@@ -3846,10 +3846,10 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "HABASIT",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P101764",
@@ -3858,10 +3858,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "MORSE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P109433",
@@ -3870,10 +3870,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "V-BELT",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 2,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P111025",
@@ -3882,10 +3882,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "GATES",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P110974",
@@ -3894,10 +3894,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "DORNER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P108643",
@@ -3906,10 +3906,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "DORNER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P106559",
@@ -3918,10 +3918,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "DORNER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101375",
@@ -3930,10 +3930,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "MORSE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P105359",
@@ -3942,10 +3942,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "BROWNING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P108115",
@@ -3954,10 +3954,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "BROWNING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -3966,10 +3966,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "N/A",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101849",
@@ -3978,10 +3978,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P101850",
@@ -3990,10 +3990,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 4,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "MISC",
@@ -4002,10 +4002,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "N/A",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 4,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P101050",
@@ -4014,10 +4014,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "u",
     "Manufacturer": "MCMASTER-CARR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 16,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104582",
@@ -4026,10 +4026,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SDP/SI",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P103876",
@@ -4038,10 +4038,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "BROWNING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P109664",
@@ -4050,10 +4050,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "BROWNING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P108209",
@@ -4062,10 +4062,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "MISUMI",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 4,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P109146",
@@ -4074,10 +4074,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "MORSE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P109147",
@@ -4086,10 +4086,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "MORSE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "MISC",
@@ -4098,10 +4098,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "N/A",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -4110,10 +4110,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "N/A",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P109912",
@@ -4122,10 +4122,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "QC INDUSTRIES",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "???",
@@ -4134,10 +4134,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101088",
@@ -4146,10 +4146,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101012",
@@ -4158,10 +4158,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101348",
@@ -4170,10 +4170,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "B-LOC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "MISC",
@@ -4182,10 +4182,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101199",
@@ -4194,10 +4194,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "FORMSPRAG",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "MISC",
@@ -4206,10 +4206,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "MISC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 15,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
   },
   {
     "PartNum": "P105723",
@@ -4218,10 +4218,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "MISUMI",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101166",
@@ -4230,10 +4230,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "MCGILL",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 2,
+    "LocY": 4,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P101340",
@@ -4242,10 +4242,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "IGUS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -4254,10 +4254,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "IGUS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P108693",
@@ -4266,10 +4266,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "IGUS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "10152B002",
@@ -4278,10 +4278,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "ECONOCORP",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101077",
@@ -4290,10 +4290,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "TIMKEN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101884",
@@ -4302,10 +4302,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "TRANTORQUE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P100432",
@@ -4314,10 +4314,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "TRANTORQUE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P100627",
@@ -4326,10 +4326,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "TRANTORQUE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101348",
@@ -4338,10 +4338,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "B-LOC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101120",
@@ -4350,10 +4350,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "TRANTORQUE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P100593",
@@ -4362,10 +4362,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "TRANTORQUE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "???",
@@ -4374,10 +4374,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "???",
@@ -4386,10 +4386,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P108177",
@@ -4398,10 +4398,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "FORMSPRAG",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "???",
@@ -4410,10 +4410,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "MISC",
@@ -4422,10 +4422,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "DORNER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "???",
@@ -4434,10 +4434,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "N/A",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P108095",
@@ -4446,10 +4446,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101938",
@@ -4458,10 +4458,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "THK",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101529",
@@ -4470,10 +4470,22 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "NIPPON",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 2,
+    "SizeX": 2,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P101529",
+    "Description": "TW10 SLIDE BUSHING",
+    "Bay": 4,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "NIPPON",
+    "LocX": 14,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101936",
@@ -4482,10 +4494,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "THK",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "???",
@@ -4494,10 +4506,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 15,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "???",
@@ -4506,10 +4518,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 15,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P100856",
@@ -4518,10 +4530,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "THK",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 16,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P106804",
@@ -4530,10 +4542,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "PACIFIC BEARING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P103923",
@@ -4542,10 +4554,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "NIPPON",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101804",
@@ -4554,10 +4566,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 2,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P100346",
@@ -4566,10 +4578,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 2,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101805",
@@ -4578,10 +4590,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "NICE",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101806",
@@ -4590,10 +4602,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "RBC BEARINGS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 4,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104248",
@@ -4602,10 +4614,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "PACIFIC BEARING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P104572",
@@ -4614,10 +4626,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "PACIFIC BEARING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "MISC",
@@ -4626,10 +4638,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "MISC",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 6,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P101951",
@@ -4638,10 +4650,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "SDP/SI",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 8,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101113",
@@ -4650,10 +4662,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "TIMKEN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P109107",
@@ -4662,10 +4674,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "BOSTON GEAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P105714",
@@ -4674,10 +4686,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "MCMASTER-CARR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 10,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P101017",
@@ -4686,10 +4698,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "NTN BEARING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P109949",
@@ -4698,22 +4710,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "FORMSPRAG",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
-  },
-  {
-    "PartNum": "P101806",
-    "Description": "7616 DLG 1IN ID RADIAL BALL BEARING WITH SNAP RING use RBC BEARING ONLY (NO SUBSTITUTIONS)",
-    "Bay": 4,
-    "Shelf": "c",
-    "SubShelf": "l",
-    "Manufacturer": "RBC BEARINGS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P104079",
@@ -4722,10 +4722,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "FYH BEARING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P109070",
@@ -4734,10 +4734,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "PEER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104195",
@@ -4746,10 +4746,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "BROWNING",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P109111",
@@ -4758,10 +4758,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "IPTCI BEARINGS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 13,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P107941",
@@ -4770,10 +4770,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "IPTCI BEARINGS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "???",
@@ -4782,10 +4782,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "IPTCI BEARINGS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P104161",
@@ -4794,10 +4794,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "IPTCI BEARINGS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 15,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 4
   },
   {
     "PartNum": "P103977",
@@ -4806,10 +4806,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "IPTCI BEARINGS",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 16,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 4
   },
   {
     "PartNum": "P103909",
@@ -4818,10 +4818,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "COLMAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 1,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
   },
   {
     "PartNum": "P100600",
@@ -4830,10 +4830,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "COLMAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
   },
   {
     "PartNum": "P109408",
@@ -4842,10 +4842,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "COLMAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 5,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
   },
   {
     "PartNum": "P109413",
@@ -4854,10 +4854,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "COLMAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "MISC",
@@ -4866,10 +4866,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "COLMAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 7,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P104393",
@@ -4878,10 +4878,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "COLMAR",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 9,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P110841",
@@ -4890,10 +4890,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "UNKNOWN",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 11,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P108729",
@@ -4902,10 +4902,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "HABASIT",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "???",
@@ -4914,10 +4914,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "QC INDUSTRIES",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 12,
+    "LocY": 2,
+    "SizeX": 2,
+    "SizeY": 3
   },
   {
     "PartNum": "P103528",
@@ -4926,10 +4926,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "DORNER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P106860",
@@ -4938,10 +4938,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "DORNER",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 2,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "???",
@@ -4950,10 +4950,10 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "???",
-    "LocX": null,
-    "LocY": null,
-    "SizeX": null,
-    "SizeY": null
+    "LocX": 14,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "MISC",
