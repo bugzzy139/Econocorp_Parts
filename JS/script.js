@@ -32,7 +32,21 @@ function addItemToShelf(itemObj){
     let shelfString = "shelf" + bayString + shelfLocation
 
     let shelf = document.getElementById(shelfString);
-    let subShelf = itemObj.SubShelf === 'u' ? shelf.querySelector('.upper') : shelf.querySelector('.lower');
+    //let subShelf = itemObj.SubShelf === 'u' ? shelf.querySelector('.upper') : shelf.querySelector('.lower');
+
+    switch (itemObj.SubShelf){
+        case 'u':
+            subShelf = shelf.querySelector('.upper');
+            break;
+        case 'l':
+            subShelf = shelf.querySelector('.lower');
+            break;
+        case 's':
+            subShelf = shelf.querySelector('.single');
+            break;
+        default:
+            subShelf = shelf.querySelector('.lower');
+    }
 
     let location = {x: itemObj.LocX, y: itemObj.LocY};
     let size = {x: itemObj.SizeX, y: itemObj.SizeY};

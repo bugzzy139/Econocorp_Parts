@@ -1411,6 +1411,18 @@ const altParts = [
     "SubShelf": "u",
     "Manufacturer": "SMC",
     "LocX": 5,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P103942",
+    "Description": "DO NOT ORDER D-Y7PWSAPC AUTO SWITCH  SEE P103853",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "SMC",
+    "LocX": 5,
     "LocY": 4,
     "SizeX": 1,
     "SizeY": 1
@@ -5672,7 +5684,7 @@ const altParts = [
     "Manufacturer": "PHD",
     "LocX": 15,
     "LocY": 3,
-    "SizeX": 3,
+    "SizeX": 1,
     "SizeY": 2
   },
   {
@@ -5926,5 +5938,65 @@ const altParts = [
     "LocY": 1,
     "SizeX": 4,
     "SizeY": 4
+  },
+  {
+    "PartNum": "P111075",
+    "Description": "MY1B40-1200Z RODLESS CYLINDER 40MM BORE 1200MM STROKE (6 week lead time)",
+    "Bay": 11,
+    "Shelf": "end",
+    "SubShelf": "s",
+    "Manufacturer": "SMC",
+    "LocX": 1,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 16
+  },
+  {
+    "PartNum": "P100398",
+    "Description": "UM50-1020 90V CLUTCH BRAKE   GEN 2 Part No � 5370-273-204",
+    "Bay": 11,
+    "Shelf": "end",
+    "SubShelf": "s",
+    "Manufacturer": "WARNER",
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 8
+  },
+  {
+    "PartNum": "P104505",
+    "Description": "GRL8260161.00 BMQ826-20-R-56C SPEED REDUCER 20:1",
+    "Bay": 11,
+    "Shelf": "end",
+    "SubShelf": "s",
+    "Manufacturer": "LEESON ELECTRIC",
+    "LocX": 3,
+    "LocY": 9,
+    "SizeX": 2,
+    "SizeY": 16
+  },
+  {
+    "PartNum": "4917-516",
+    "Description": "CHAIN GUIDE WITHOUT FIBERSERTS STD.",
+    "Bay": 11,
+    "Shelf": "end",
+    "SubShelf": "s",
+    "Manufacturer": "ECONOCORP",
+    "LocX": 5,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 16
+  },
+  {
+    "PartNum": "3837-227-1",
+    "Description": "L.H. FLAP GUIDE = 26 3/4",
+    "Bay": 11,
+    "Shelf": "end",
+    "SubShelf": "s",
+    "Manufacturer": "ECONOCORP",
+    "LocX": 6,
+    "LocY": 5,
+    "SizeX": 1,
+    "SizeY": 16
   }
  ]
