@@ -5712,20 +5712,44 @@ const altParts = [
     "SizeY": 2
   },
   {
-    "PartNum": "MISC",
-    "Description": "Bimba Cylinders",
+    "PartNum": "P105068",
+    "Description": "CM-1717-DX CYLINDER",
     "Bay": 11,
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "BIMBA",
     "LocX": 1,
-    "LocY": 1,
+    "LocY": 2,
     "SizeX": 1,
-    "SizeY": 4
+    "SizeY": 1
   },
   {
-    "PartNum": "MISC",
-    "Description": "Bimba Cylinders",
+    "PartNum": "P100966",
+    "Description": "CM-1715-DX PUSHER CYLINDER E-2000",
+    "Bay": 11,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "BIMBA",
+    "LocX": 1,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P100587",
+    "Description": "CM-1713-DX PUSHER CYLINDER E-2000",
+    "Bay": 11,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "BIMBA",
+    "LocX": 1,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P100882",
+    "Description": "CM-1724-D VACUUM CYLINDER CASER",
     "Bay": 11,
     "Shelf": "d",
     "SubShelf": "n",
@@ -5744,7 +5768,7 @@ const altParts = [
     "Manufacturer": "BIMBA",
     "LocX": 3,
     "LocY": 1,
-    "SizeX": 2,
+    "SizeX": 1,
     "SizeY": 2
   },
   {
@@ -5756,19 +5780,55 @@ const altParts = [
     "Manufacturer": "BIMBA",
     "LocX": 3,
     "LocY": 3,
-    "SizeX": 2,
+    "SizeX": 1,
     "SizeY": 2
   },
   {
-    "PartNum": "P103962",
-    "Description": "EM-25-75-UC TUCKER CYLINDER E-2000",
+    "PartNum": "P100846",
+    "Description": "ABN-40-150-CB = New P/N (was AB-40-150-CB) VACUUM CYLINDER SPARTAN",
+    "Bay": 11,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "BIMBA",
+    "LocX": 4,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P104689",
+    "Description": "MRS-176-DB CYLINDER",
+    "Bay": 11,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "BIMBA",
+    "LocX": 4,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P100748",
+    "Description": "EM-25-330-UC TUCKER CYLINDER E-2000",
     "Bay": 11,
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "BIMBA",
     "LocX": 5,
     "LocY": 1,
-    "SizeX": 2,
+    "SizeX": 1,
+    "SizeY": 4
+  },
+  {
+    "PartNum": "P100388",
+    "Description": "EM-25-200-NC DISCHARGE CYLINDER E-2000",
+    "Bay": 11,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "BIMBA",
+    "LocX": 6,
+    "LocY": 1,
+    "SizeX": 1,
     "SizeY": 2
   },
   {
@@ -5778,10 +5838,22 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "BIMBA",
-    "LocX": 5,
+    "LocX": 6,
     "LocY": 3,
-    "SizeX": 2,
+    "SizeX": 1,
     "SizeY": 2
+  },
+  {
+    "PartNum": "P106148",
+    "Description": "EM-25-75-NC INFEED TAMP CYLINDER",
+    "Bay": 11,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "BIMBA",
+    "LocX": 7,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P100746",
@@ -5791,9 +5863,21 @@ const altParts = [
     "SubShelf": "n",
     "Manufacturer": "BIMBA",
     "LocX": 7,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "MISC",
+    "Description": "Bimba Cylinders",
+    "Bay": 11,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "BIMBA",
+    "LocX": 8,
     "LocY": 1,
     "SizeX": 1,
-    "SizeY": 4
+    "SizeY": 2
   },
   {
     "PartNum": "P100811",
@@ -5803,9 +5887,9 @@ const altParts = [
     "SubShelf": "n",
     "Manufacturer": "BIMBA",
     "LocX": 8,
-    "LocY": 1,
+    "LocY": 3,
     "SizeX": 1,
-    "SizeY": 4
+    "SizeY": 2
   },
   {
     "PartNum": "P110957",
