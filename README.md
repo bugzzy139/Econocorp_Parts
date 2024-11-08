@@ -23,12 +23,13 @@ This can be useful to select multiple different items and then print out the web
 ## To-Do
 
 - [x] Create a website that can be accessed by different computers that displays the location of different parts by their part number
-~~- [ ] Include information about the stock of each part.~~
-~~- [ ] Develop a re-order point for each part based off of purchase amount & frequency.~~
-~~- [ ] Make a drop-down to select a manufacturer~~
+- [ ] Include information about the stock of each part.
+- [ ] Develop a re-order point for each part based off of purchase amount & frequency.
+- [ ] Make a drop-down to select a manufacturer
 - [x] Make the search bar stay at the top of the screen and follow while scrolling + make pressing 'Enter' actually search
 - [x] Make it so that when you type in a part, jump to where it's located
 - [x] Display an alert if the part searched doesn't return anything
-~~- [ ] Be able to re-do selected pieces if a search is cleared (history bar that tracks actions?)~~
+- [ ] Be able to re-do selected pieces if a search is cleared (history bar that tracks actions?)
+- [ ] Make a 'print mode' which makes printing the website more legible (changes colors of boxes)
 
 *** Any future developments for this project will be recreated in a React Framework ***

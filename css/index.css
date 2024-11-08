@@ -426,3 +426,36 @@ a.baynavbutton:hover {
 .hidden {
     font-size: 0px;
 }
+
+@media print {
+    header, .baymap, .key {
+        display: none;
+    }
+
+    #bay05, #bay06, #bay07, #bay08, #bay09 {
+        display: none;
+    }
+    
+    body, h1, p, .container, .upper, .lower, .single, .unsure, .misc, .selected, .shelf, .shelf_holder, .bay {
+        color: black !important;
+        background-color: white !important;
+        font-family: serif;
+        font-size: 10pt;
+
+        padding: 1px;
+        margin: 1px;
+    }
+
+    .bay {
+        break-before: page;
+        border: 0px;
+    }
+
+    .shelf {
+        break-inside: avoid-page;
+    }
+}
+
+@page {
+    margin: 0px;
+}
