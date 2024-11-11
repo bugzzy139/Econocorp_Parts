@@ -11,14 +11,11 @@ function searchThroughContainers(searchString){
     for(let i = 0; i < containerArray.length; i++){
         let container = containerArray[i];
         for(let j = 0; j < container.children.length; j++){            
-            /*if(searchString === container.children[j].innerHTML){
-                //Success
-                toggleItemDisplay(container);
-            }*/
             if(container.children[j].innerHTML.includes(searchString)){
                 //Success
                 toggleItemDisplay(container);
                 matchedResults.push(container);
+                break;
             }
         }       
     }
