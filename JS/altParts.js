@@ -1,5 +1,17 @@
 const altParts = [
   {
+    "PartNum": "P100292",
+    "Description": "56 NEO VACUUM CUPS  (NEOPRENE RED)",
+    "Bay": 1,
+    "Shelf": "a",
+    "SubShelf": "n",
+    "Manufacturer": "RUDOW",
+    "LocX": 1,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P103036",
     "Description": "PPX10RE3 VACUUM PUMP FILTER 3 PACK",
     "Bay": 1,
@@ -7,9 +19,9 @@ const altParts = [
     "SubShelf": "n",
     "Manufacturer": "PIAB",
     "LocX": 1,
-    "LocY": 1,
+    "LocY": 2,
     "SizeX": 2,
-    "SizeY": 4
+    "SizeY": 3
   },
   {
     "PartNum": "P104030",
@@ -24,28 +36,28 @@ const altParts = [
     "SizeY": 4
   },
   {
-    "PartNum": "P100292",
-    "Description": "56 NEO VACUUM CUPS  (NEOPRENE RED)",
-    "Bay": 1,
-    "Shelf": "a",
-    "SubShelf": "n",
-    "Manufacturer": " RUDOW",
-    "LocX": 4,
-    "LocY": 2,
-    "SizeX": 2,
-    "SizeY": 3
-  },
-  {
-    "PartNum": "P100666",
-    "Description": "F50-2.30 VACUUM CUPS",
+    "PartNum": "P100635",
+    "Description": "F40-2.30 VACUUM CUPS",
     "Bay": 1,
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "PIAB",
     "LocX": 4,
-    "LocY": 1,
+    "LocY": 2,
     "SizeX": 2,
     "SizeY": 1
+  },
+  {
+    "PartNum": "P103272",
+    "Description": "VC-2F ROUND VACUUM CUP",
+    "Bay": 1,
+    "Shelf": "a",
+    "SubShelf": "n",
+    "Manufacturer": "VI-CAS",
+    "LocX": 4,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P106284",
@@ -58,18 +70,6 @@ const altParts = [
     "LocY": 4,
     "SizeX": 1,
     "SizeY": 1
-  },
-  {
-    "PartNum": "P103272",
-    "Description": "VC-2F ROUND VACUUM CUP",
-    "Bay": 1,
-    "Shelf": "a",
-    "SubShelf": "n",
-    "Manufacturer": "VI-CAS",
-    "LocX": 7,
-    "LocY": 1,
-    "SizeX": 2,
-    "SizeY": 3
   },
   {
     "PartNum": "P106972",
@@ -104,20 +104,8 @@ const altParts = [
     "Manufacturer": "ARO",
     "LocX": 11,
     "LocY": 1,
-    "SizeX": 2,
-    "SizeY": 4
-  },
-  {
-    "PartNum": "P101182",
-    "Description": "SL1-P ROLLER LEVER MICROSWITCH",
-    "Bay": 1,
-    "Shelf": "a",
-    "SubShelf": "n",
-    "Manufacturer": "HONEYWELL",
-    "LocX": 13,
-    "LocY": 4,
     "SizeX": 1,
-    "SizeY": 1
+    "SizeY": 4
   },
   {
     "PartNum": "P100144",
@@ -126,8 +114,8 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "HONEYWELL",
-    "LocX": 14,
-    "LocY": 3,
+    "LocX": 12,
+    "LocY": 2,
     "SizeX": 1,
     "SizeY": 1
   },
@@ -138,7 +126,31 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "HUMPHREY",
-    "LocX": 14,
+    "LocX": 12,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P101182",
+    "Description": "SL1-P ROLLER LEVER MICROSWITCH",
+    "Bay": 1,
+    "Shelf": "a",
+    "SubShelf": "n",
+    "Manufacturer": "HONEYWELL",
+    "LocX": 12,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P106542",
+    "Description": "RS-3-1/8 #2272 Roller Lever Valve",
+    "Bay": 1,
+    "Shelf": "a",
+    "SubShelf": "n",
+    "Manufacturer": "FESTO",
+    "LocX": 13,
     "LocY": 4,
     "SizeX": 1,
     "SizeY": 1
@@ -150,7 +162,7 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "MEAD",
-    "LocX": 15,
+    "LocX": 14,
     "LocY": 4,
     "SizeX": 1,
     "SizeY": 1
@@ -162,7 +174,7 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "HONEYWELL",
-    "LocX": 16,
+    "LocX": 15,
     "LocY": 2,
     "SizeX": 1,
     "SizeY": 3
@@ -174,7 +186,7 @@ const altParts = [
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "PARKER",
-    "LocX": 17,
+    "LocX": 16,
     "LocY": 2,
     "SizeX": 1,
     "SizeY": 3
@@ -301,7 +313,7 @@ const altParts = [
   },
   {
     "PartNum": "???",
-    "Description": "???",
+    "Description": "VC 56",
     "Bay": 1,
     "Shelf": "b",
     "SubShelf": "u",
@@ -309,11 +321,23 @@ const altParts = [
     "LocX": 11,
     "LocY": 3,
     "SizeX": 1,
-    "SizeY": 2
+    "SizeY": 1
   },
   {
     "PartNum": "???",
     "Description": "???",
+    "Bay": 1,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "???",
+    "LocX": 11,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "???",
+    "Description": "1108",
     "Bay": 1,
     "Shelf": "b",
     "SubShelf": "u",
@@ -367,18 +391,6 @@ const altParts = [
     "SubShelf": "u",
     "Manufacturer": "PIAB",
     "LocX": 16,
-    "LocY": 3,
-    "SizeX": 1,
-    "SizeY": 2
-  },
-  {
-    "PartNum": "???",
-    "Description": "???",
-    "Bay": 1,
-    "Shelf": "b",
-    "SubShelf": "u",
-    "Manufacturer": "???",
-    "LocX": 17,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
@@ -440,7 +452,7 @@ const altParts = [
     "Manufacturer": "PIAB",
     "LocX": 8,
     "LocY": 1,
-    "SizeX": 2,
+    "SizeX": 1,
     "SizeY": 4
   },
   {
@@ -450,9 +462,9 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "VI-CAS",
-    "LocX": 10,
+    "LocX": 9,
     "LocY": 1,
-    "SizeX": 2,
+    "SizeX": 1,
     "SizeY": 4
   },
   {
@@ -462,7 +474,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "RUDOW",
-    "LocX": 12,
+    "LocX": 10,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -474,7 +486,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "VI-CAS",
-    "LocX": 13,
+    "LocX": 11,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -486,7 +498,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "PIAB",
-    "LocX": 14,
+    "LocX": 12,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -498,7 +510,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "PIAB",
-    "LocX": 15,
+    "LocX": 13,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -510,10 +522,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "PIAB",
-    "LocX": 16,
+    "LocX": 14,
     "LocY": 1,
-    "SizeX": 1,
-    "SizeY": 4
+    "SizeX": 2,
+    "SizeY": 2
   },
   {
     "PartNum": "P101189",
@@ -522,10 +534,10 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "VI-CAS",
-    "LocX": 17,
-    "LocY": 1,
+    "LocX": 14,
+    "LocY": 3,
     "SizeX": 2,
-    "SizeY": 4
+    "SizeY": 2
   },
   {
     "PartNum": "P101491",
@@ -534,7 +546,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "PIAB",
-    "LocX": 19,
+    "LocX": 16,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -717,7 +729,7 @@ const altParts = [
     "LocX": 15,
     "LocY": 3,
     "SizeX": 1,
-    "SizeY": 2
+    "SizeY": 1
   },
   {
     "PartNum": "P100409",
@@ -726,10 +738,10 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "ARO",
-    "LocX": 16,
-    "LocY": 3,
+    "LocX": 15,
+    "LocY": 4,
     "SizeX": 1,
-    "SizeY": 2
+    "SizeY": 1
   },
   {
     "PartNum": "P100019",
@@ -738,7 +750,7 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "ARO",
-    "LocX": 17,
+    "LocX": 16,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
@@ -769,7 +781,7 @@ const altParts = [
   },
   {
     "PartNum": "???",
-    "Description": "Vacuum Gripper",
+    "Description": "P3010 Vacuum Gripper",
     "Bay": 1,
     "Shelf": "c",
     "SubShelf": "l",
@@ -780,8 +792,8 @@ const altParts = [
     "SizeY": 3
   },
   {
-    "PartNum": "???",
-    "Description": "???",
+    "PartNum": "P109213",
+    "Description": "10497 Piab Gasket + 10514 + Vacuum Jars",
     "Bay": 1,
     "Shelf": "c",
     "SubShelf": "l",
@@ -931,32 +943,8 @@ const altParts = [
     "SubShelf": "n",
     "Manufacturer": "PEER",
     "LocX": 1,
-    "LocY": 1,
-    "SizeX": 3,
-    "SizeY": 2
-  },
-  {
-    "PartNum": "???",
-    "Description": "#40 17-1/2IN SECTION CHAIN",
-    "Bay": 1,
-    "Shelf": "d",
-    "SubShelf": "n",
-    "Manufacturer": "PEER",
-    "LocX": 1,
     "LocY": 3,
     "SizeX": 3,
-    "SizeY": 2
-  },
-  {
-    "PartNum": "???",
-    "Description": "Chain",
-    "Bay": 1,
-    "Shelf": "d",
-    "SubShelf": "n",
-    "Manufacturer": "???",
-    "LocX": 4,
-    "LocY": 1,
-    "SizeX": 2,
     "SizeY": 2
   },
   {
@@ -967,19 +955,31 @@ const altParts = [
     "SubShelf": "n",
     "Manufacturer": "VALU-GUIDE",
     "LocX": 4,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "???",
+    "Description": "#40 17-1/2IN SECTION CHAIN",
+    "Bay": 1,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "PEER",
+    "LocX": 4,
     "LocY": 3,
     "SizeX": 2,
     "SizeY": 2
   },
   {
-    "PartNum": "P101173",
-    "Description": "60 X 3-3/4IN CHAIN SECTIONS NICKEL PLATED",
+    "PartNum": "P105021",
+    "Description": "New P/N=81402153 MTO LF863TAB S-6IN(was LF863TAB-K6)6IN WIDE TABLETOP TABBED CARBON ST. BASE CHAIN",
     "Bay": 1,
     "Shelf": "d",
     "SubShelf": "n",
-    "Manufacturer": "TSUBAKI",
-    "LocX": 7,
-    "LocY": 2,
+    "Manufacturer": "REX",
+    "LocX": 6,
+    "LocY": 1,
     "SizeX": 2,
     "SizeY": 2
   },
@@ -1014,8 +1014,20 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "n",
     "Manufacturer": "TSUBAKI",
+    "LocX": 13,
+    "LocY": 2,
+    "SizeX": 2,
+    "SizeY": 3
+  },
+  {
+    "PartNum": "7005-729",
+    "Description": "#60 LINK PLATE",
+    "Bay": 1,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "ECONOCORP",
     "LocX": 15,
-    "LocY": 3,
+    "LocY": 1,
     "SizeX": 2,
     "SizeY": 2
   },
@@ -1027,7 +1039,7 @@ const altParts = [
     "SubShelf": "n",
     "Manufacturer": "TSUBAKI",
     "LocX": 15,
-    "LocY": 1,
+    "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
   },
@@ -1039,7 +1051,7 @@ const altParts = [
     "SubShelf": "n",
     "Manufacturer": "UST NEPTUNE",
     "LocX": 16,
-    "LocY": 1,
+    "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
   },
