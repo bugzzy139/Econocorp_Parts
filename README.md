@@ -30,6 +30,6 @@ This can be useful to select multiple different items and then print out the web
 - [x] Make it so that when you type in a part, jump to where it's located
 - [x] Display an alert if the part searched doesn't return anything
 - [ ] Be able to re-do selected pieces if a search is cleared (history bar that tracks actions?)
-- [ ] Make a 'print mode' which makes printing the website more legible (changes colors of boxes)
+- [x] Make a 'print mode' which makes printing the website more legible (changes colors of boxes)
 
 *** Any future developments for this project will be recreated in a React Framework ***
