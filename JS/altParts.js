@@ -2382,6 +2382,18 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "SMC",
+    "LocX": 10,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P101781",
+    "Description": "NCMKB106-0900C Stainless,non-rotating, double acting cylinder, 1-1/16in bore, 9in stroke w/cushions",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
     "LocX": 11,
     "LocY": 1,
     "SizeX": 1,
@@ -3252,14 +3264,26 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P101016",
+    "Description": "F10B FLOW CONTROL",
+    "Bay": 3,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "DELTROL",
+    "LocX": 3,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P101363",
     "Description": "OEM .35B NB21540 SHOCK ABSORBER W/ NUT",
     "Bay": 3,
     "Shelf": "c",
     "SubShelf": "u",
     "Manufacturer": "ENIDINE",
-    "LocX": 3,
-    "LocY": 3,
+    "LocX": 4,
+    "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
   },
