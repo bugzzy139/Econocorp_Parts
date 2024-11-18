@@ -31,5 +31,7 @@ This can be useful to select multiple different items and then print out the web
 - [x] Display an alert if the part searched doesn't return anything
 - [ ] Be able to re-do selected pieces if a search is cleared (history bar that tracks actions?)
 - [x] Make a 'print mode' which makes printing the website more legible (changes colors of boxes)
+- [ ] Make a 'list mode' that prints out a text list of all the locations of selected containers
+- [ ] Be able to enter a file / list of items to select them all in one search
 
 *** Any future developments for this project will be recreated in a React Framework ***
