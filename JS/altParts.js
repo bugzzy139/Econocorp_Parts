@@ -5880,6 +5880,18 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P100928",
+    "Description": "EM-25-150-NC ELEVATOR CYLINDER E-2000",
+    "Bay": 11,
+    "Shelf": "d",
+    "SubShelf": "n",
+    "Manufacturer": "BIMBA",
+    "LocX": 7,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P106148",
     "Description": "EM-25-75-NC INFEED TAMP CYLINDER",
     "Bay": 11,
