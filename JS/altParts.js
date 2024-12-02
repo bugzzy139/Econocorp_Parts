@@ -1680,6 +1680,18 @@ const altParts = [
     "SizeY": 1
   },
   {
+    "PartNum": "P104192",
+    "Description": "(I) CRB1BW50-90D ROTARY ACTUATOR",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "SMC",
+    "LocX": 12,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P103038",
     "Description": "CG1A40-PS 40MM BORE CYLINDER REPAIR KIT",
     "Bay": 2,
@@ -1772,7 +1784,7 @@ const altParts = [
     "Manufacturer": "SMC",
     "LocX": 1,
     "LocY": 1,
-    "SizeX": 1,
+    "SizeX": 2,
     "SizeY": 3
   },
   {
@@ -1832,7 +1844,7 @@ const altParts = [
     "Manufacturer": "SMC",
     "LocX": 6,
     "LocY": 1,
-    "SizeX": 1,
+    "SizeX": 2,
     "SizeY": 2
   },
   {
@@ -1842,7 +1854,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 7,
+    "LocX": 8,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -1854,7 +1866,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 7,
+    "LocX": 8,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 1
@@ -1866,7 +1878,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 8,
+    "LocX": 9,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -1878,7 +1890,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 8,
+    "LocX": 9,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
@@ -1890,7 +1902,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 9,
+    "LocX": 10,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -1902,7 +1914,19 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 10,
+    "LocX": 11,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P103090",
+    "Description": "CXSM25-50 GUIDED CYLINDER 25MM BORE 50MM STROKE",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
+    "LocX": 12,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -1914,32 +1938,8 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 11,
-    "LocY": 2,
-    "SizeX": 1,
-    "SizeY": 1
-  },
-  {
-    "PartNum": "P106657",
-    "Description": "CDQ2A50-75DCZ = New P/N (was CDQ2A50-75DC) CYLINDER 50MM BORE 75MM STROKE (Metric ports and threads)",
-    "Bay": 2,
-    "Shelf": "b",
-    "SubShelf": "l",
-    "Manufacturer": "SMC",
-    "LocX": 11,
+    "LocX": 12,
     "LocY": 3,
-    "SizeX": 1,
-    "SizeY": 1
-  },
-  {
-    "PartNum": "P103090",
-    "Description": "CXSM25-50 GUIDED CYLINDER 25MM BORE 50MM STROKE",
-    "Bay": 2,
-    "Shelf": "b",
-    "SubShelf": "l",
-    "Manufacturer": "SMC",
-    "LocX": 11,
-    "LocY": 4,
     "SizeX": 1,
     "SizeY": 1
   },
@@ -1950,7 +1950,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 12,
+    "LocX": 13,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -1962,7 +1962,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 12,
+    "LocX": 13,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
@@ -1974,9 +1974,21 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 13,
+    "LocX": 14,
     "LocY": 1,
-    "SizeX": 1,
+    "SizeX": 2,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P106657",
+    "Description": "CDQ2A50-75DCZ = New P/N (was CDQ2A50-75DC) CYLINDER 50MM BORE 75MM STROKE (Metric ports and threads)",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
+    "LocX": 14,
+    "LocY": 3,
+    "SizeX": 3,
     "SizeY": 2
   },
   {
@@ -1986,7 +1998,7 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 14,
+    "LocX": 16,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -2011,13 +2023,25 @@ const altParts = [
     "SubShelf": "u",
     "Manufacturer": "SMC",
     "LocX": 2,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P104758",
+    "Description": "CDG1BA32-64Z-XC22C37 CYLINDER 32MM BORE 64MM STROKE VITON SEALS",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "u",
+    "Manufacturer": "SMC",
+    "LocX": 2,
     "LocY": 2,
     "SizeX": 1,
     "SizeY": 1
   },
   {
-    "PartNum": "???",
-    "Description": "???",
+    "PartNum": "P101395",
+    "Description": "CDG1BA32-100Z-XC37 = New P/N (was CDG1BA32-100-XC37) CYLINDER 32MM BORE 100MM STROKE",
     "Bay": 2,
     "Shelf": "c",
     "SubShelf": "u",
@@ -2184,18 +2208,6 @@ const altParts = [
     "SizeY": 2
   },
   {
-    "PartNum": "P104192",
-    "Description": "CRB1BW50-90D ROTARY ACTUATOR",
-    "Bay": 2,
-    "Shelf": "c",
-    "SubShelf": "u",
-    "Manufacturer": "SMC",
-    "LocX": 12,
-    "LocY": 1,
-    "SizeX": 1,
-    "SizeY": 1
-  },
-  {
     "PartNum": "P109308",
     "Description": "(I) CDG1DA32TN-50Z-NV-XC37 CYLINDER 32MM BORE 50MM STROKE (note comes w/P107135 I-G03)",
     "Bay": 2,
@@ -2286,8 +2298,8 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 3,
-    "LocY": 1,
+    "LocX": 2,
+    "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
   },
@@ -2298,7 +2310,7 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 4,
+    "LocX": 3,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -2310,7 +2322,7 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 5,
+    "LocX": 4,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -2322,7 +2334,7 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 6,
+    "LocX": 5,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 2
@@ -2330,6 +2342,18 @@ const altParts = [
   {
     "PartNum": "P103027",
     "Description": "(I) CDG1BA40-500Z-XC37 = New P/N (was CDG1BA40-500-XC37) CYLINDER 40MM BORE 500MM STROKE",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
+    "LocX": 6,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P104179",
+    "Description": "(I) CDG1BA32-330Z-XC37 = New P/N (was CDG1BA32-330-XC37) CYLINDER 32MM BORE 330MM STROKE",
     "Bay": 2,
     "Shelf": "c",
     "SubShelf": "l",
@@ -2371,9 +2395,9 @@ const altParts = [
     "SubShelf": "l",
     "Manufacturer": "SMC",
     "LocX": 10,
-    "LocY": 1,
+    "LocY": 2,
     "SizeX": 1,
-    "SizeY": 2
+    "SizeY": 1
   },
   {
     "PartNum": "P103425",
@@ -2385,7 +2409,19 @@ const altParts = [
     "LocX": 10,
     "LocY": 3,
     "SizeX": 1,
-    "SizeY": 2
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P103294",
+    "Description": "CDG1DA40-375Z-XC37 = New P/N (was CDG1DA40-375-XC37-X142US) CYLINDER 40MM BORE 375MM STROKE",
+    "Bay": 2,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
+    "LocX": 10,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101781",
