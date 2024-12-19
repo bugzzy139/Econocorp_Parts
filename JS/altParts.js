@@ -4740,6 +4740,18 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P100996",
+    "Description": "18856-TW 3/4IN BORE 1-5/16IN OD HARDENED THRUST WASHER",
+    "Bay": 4,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "BOSTON GEAR",
+    "LocX": 8,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P101113",
     "Description": "VCJT-1 1/4IN BEARING",
     "Bay": 4,
