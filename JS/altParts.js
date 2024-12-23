@@ -2004,6 +2004,18 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P109963",
+    "Description": "MGPL32-150Z COMPACT CYLINDER 25MM BORE 150MM STROKE",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
+    "LocX": 16,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
     "PartNum": "P104796",
     "Description": "CDG1BA25-50Z-XC37 CYLINDER 25MM BORE 50MM STROKE",
     "Bay": 2,
