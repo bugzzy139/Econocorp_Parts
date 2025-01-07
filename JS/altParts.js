@@ -1988,7 +1988,7 @@ const altParts = [
     "Manufacturer": "SMC",
     "LocX": 14,
     "LocY": 3,
-    "SizeX": 3,
+    "SizeX": 2,
     "SizeY": 2
   },
   {
@@ -2001,7 +2001,19 @@ const altParts = [
     "LocX": 16,
     "LocY": 1,
     "SizeX": 1,
-    "SizeY": 2
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P109961",
+    "Description": "MGPL32-300AZ COMPACT CYLINDER 32MM BORE 300MM STROKE",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
+    "LocX": 16,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P109963",
@@ -2604,13 +2616,25 @@ const altParts = [
     "SizeY": 4
   },
   {
+    "PartNum": "P111381",
+    "Description": "RHCB32-510 HIGH POWER CYLINDER DOUBLE ACTING SINGLE ROD",
+    "Bay": 2,
+    "Shelf": "d",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
+    "LocX": 4,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 4
+  },
+  {
     "PartNum": "P104206",
     "Description": "(I) MY1B40-750LZ = New P/N ( was MY1B40-750L) RODLESS CYLINDER 40MM BORE 750MM STROKE",
     "Bay": 2,
     "Shelf": "d",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 4,
+    "LocX": 5,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -2622,7 +2646,7 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 5,
+    "LocX": 6,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -2634,7 +2658,7 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 6,
+    "LocX": 7,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -2646,7 +2670,7 @@ const altParts = [
     "Shelf": "d",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 7,
+    "LocX": 8,
     "LocY": 1,
     "SizeX": 1,
     "SizeY": 4
@@ -4306,6 +4330,18 @@ const altParts = [
     "LocY": 1,
     "SizeX": 2,
     "SizeY": 4
+  },
+  {
+    "PartNum": "P100214",
+    "Description": "CF-3/4-S CAM FOLLOWER (NON-CORUGATED) OR EQUIVALENT",
+    "Bay": 4,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "MCGILL",
+    "LocX": 1,
+    "LocY": 3,
+    "SizeX": 2,
+    "SizeY": 1
   },
   {
     "PartNum": "P105723",
