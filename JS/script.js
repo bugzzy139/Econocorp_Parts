@@ -59,9 +59,9 @@ function addItemToShelf(itemObj){
     let manu = document.createElement('p');
 
 
-    num.innerHTML = itemObj.PartNum;
-    desc.innerHTML = itemObj.Description;
-    manu.innerHTML = itemObj.Manufacturer;
+    num.textContent = itemObj.PartNum;
+    desc.textContent = itemObj.Description;
+    manu.textContent = itemObj.Manufacturer;
     
 
     let classNameString = "container";
@@ -72,8 +72,8 @@ function addItemToShelf(itemObj){
     //Misc
     if(itemObj.PartNum === 'MISC'){
         classNameString += " misc";
-        num.innerHTML = itemObj.Description;
-        desc.innerHTML = itemObj.PartNum;
+        num.textContent = itemObj.Description;
+        desc.textContent = itemObj.PartNum;
     }
     item.className = classNameString;
 
