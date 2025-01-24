@@ -1976,7 +1976,7 @@ const altParts = [
     "Manufacturer": "SMC",
     "LocX": 14,
     "LocY": 1,
-    "SizeX": 2,
+    "SizeX": 1,
     "SizeY": 2
   },
   {
@@ -1988,7 +1988,7 @@ const altParts = [
     "Manufacturer": "SMC",
     "LocX": 14,
     "LocY": 3,
-    "SizeX": 2,
+    "SizeX": 1,
     "SizeY": 2
   },
   {
@@ -1998,10 +1998,22 @@ const altParts = [
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "SMC",
-    "LocX": 16,
+    "LocX": 15,
     "LocY": 1,
     "SizeX": 1,
-    "SizeY": 1
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P106937",
+    "Description": "(I) MGQM25-50 COMPACT GUIDED CYLINDER",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "SMC",
+    "LocX": 15,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
   },
   {
     "PartNum": "P109961",
@@ -2011,9 +2023,9 @@ const altParts = [
     "SubShelf": "l",
     "Manufacturer": "SMC",
     "LocX": 16,
-    "LocY": 2,
+    "LocY": 1,
     "SizeX": 1,
-    "SizeY": 1
+    "SizeY": 2
   },
   {
     "PartNum": "P109963",
