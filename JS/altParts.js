@@ -5148,6 +5148,18 @@ const altParts = [
     "SizeY": 4
   },
   {
+    "PartNum": "P111811",
+    "Description": "808696 .016 dia 4-ORIFICE NOZZLE",
+    "Bay": 10,
+    "Shelf": "c",
+    "SubShelf": "n",
+    "Manufacturer": "NORDSON",
+    "LocX": 2,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "MISC",
     "Description": "Spare / Old Nordson Nozzles",
     "Bay": 10,
