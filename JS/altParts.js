@@ -3060,8 +3060,20 @@ const altParts = [
     "SizeY": 2
   },
   {
-    "PartNum": "P107034",
-    "Description": "440N-Z2NRS1B S MC1 C2   GUARD SWITCH",
+    "PartNum": "P107006",
+    "Description": "440N-Z2NRS1C   MAGNETIC CODED GUARD SWITCH   (CE MACHINE)",
+    "Bay": 3,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "ALLEN-BRADLEY",
+    "LocX": 13,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P106406",
+    "Description": "440N-Z21W1PH   MAGNETICALLY CODED NON-CONTACT SWITCH",
     "Bay": 3,
     "Shelf": "b",
     "SubShelf": "u",
@@ -3069,7 +3081,19 @@ const altParts = [
     "LocX": 13,
     "LocY": 3,
     "SizeX": 1,
-    "SizeY": 2
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P107034",
+    "Description": "440N-Z2NRS1B S MC1 C2   GUARD SWITCH",
+    "Bay": 3,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "ALLEN-BRADLEY",
+    "LocX": 13,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P107233",
@@ -3298,18 +3322,6 @@ const altParts = [
     "LocY": 1,
     "SizeX": 3,
     "SizeY": 2
-  },
-  {
-    "PartNum": "P106406",
-    "Description": "440N-Z21W1PH   MAGNETICALLY CODED NON-CONTACT SWITCH",
-    "Bay": 3,
-    "Shelf": "b",
-    "SubShelf": "l",
-    "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": 14,
-    "LocY": 3,
-    "SizeX": 3,
-    "SizeY": 1
   },
   {
     "PartNum": "P104467",
@@ -5662,6 +5674,30 @@ const altParts = [
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
+  },
+  {
+    "PartNum": "P111155",
+    "Description": "0910-1238 SWITCH MAGNT FOR BC225",
+    "Bay": 11,
+    "Shelf": "c",
+    "SubShelf": "n",
+    "Manufacturer": "TOLOMATIC",
+    "LocX": 4,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P104829",
+    "Description": "0510-1003 CARRIER",
+    "Bay": 11,
+    "Shelf": "c",
+    "SubShelf": "n",
+    "Manufacturer": "TOLOMATIC",
+    "LocX": 4,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "MISC",
