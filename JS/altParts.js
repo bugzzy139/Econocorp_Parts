@@ -468,6 +468,18 @@ const altParts = [
     "SizeY": 4
   },
   {
+    "PartNum": "P111855",
+    "Description": "F50-2.20  PIAB FLAT CUP SIL",
+    "Bay": 1,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "PIAB",
+    "LocX": 10,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P110982",
     "Description": "#56 SILICONE  (Silicone Blue)",
     "Bay": 1,
@@ -475,9 +487,21 @@ const altParts = [
     "SubShelf": "l",
     "Manufacturer": "RUDOW",
     "LocX": 10,
-    "LocY": 1,
+    "LocY": 3,
     "SizeX": 1,
-    "SizeY": 4
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P111856",
+    "Description": "F50-2.37 PIAB FLAT CUP HNBR, 01.08.166",
+    "Bay": 1,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "PIAB",
+    "LocX": 11,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P110951",
@@ -487,9 +511,9 @@ const altParts = [
     "SubShelf": "l",
     "Manufacturer": "VI-CAS",
     "LocX": 11,
-    "LocY": 1,
+    "LocY": 3,
     "SizeX": 1,
-    "SizeY": 4
+    "SizeY": 2
   },
   {
     "PartNum": "P103058",
@@ -1664,6 +1688,18 @@ const altParts = [
     "Manufacturer": "SMC",
     "LocX": 10,
     "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P103929",
+    "Description": "(I) KQ2VD13-37AS = New P/N (was KQ2VD13-37S) 1/2inX1/2Iin DOUBLE MALE ELBOW FITTING (pur qty 10pcs)",
+    "Bay": 2,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "SMC",
+    "LocX": 11,
+    "LocY": 3,
     "SizeX": 1,
     "SizeY": 1
   },
@@ -4836,6 +4872,18 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P101327",
+    "Description": "FB2024-10 FLANGE BUSHING 1-1/4 X 1-1/2 X 1-1/4 (SYMN BSF4048-20 OK TO SUB)",
+    "Bay": 4,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "BOSTON GEAR",
+    "LocX": 9,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P109107",
     "Description": "64522-PS3-3/4 FLANGED MOUNTED BALL BEARING (alternative FYH SBPF204-12 RKZ1)",
     "Bay": 4,
@@ -5640,52 +5688,16 @@ const altParts = [
     "SizeY": 2
   },
   {
-    "PartNum": "P104163",
-    "Description": "0124-0400 RH SLIDE-RITE COMPACT 1:1 RATIO GEARBOX 5/8IN BORE",
+    "PartNum": "MISC",
+    "Description": "Tolomatic Parts",
     "Bay": 11,
     "Shelf": "c",
     "SubShelf": "n",
     "Manufacturer": "TOLOMATIC",
     "LocX": 1,
     "LocY": 1,
-    "SizeX": 2,
-    "SizeY": 2
-  },
-  {
-    "PartNum": "P105057",
-    "Description": "4910-1170 Rod",
-    "Bay": 11,
-    "Shelf": "c",
-    "SubShelf": "n",
-    "Manufacturer": "TOLOMATIC",
-    "LocX": 1,
-    "LocY": 3,
-    "SizeX": 2,
-    "SizeY": 2
-  },
-  {
-    "PartNum": "P109381",
-    "Description": "RKBC210SK10 REPAIR KIT",
-    "Bay": 11,
-    "Shelf": "c",
-    "SubShelf": "n",
-    "Manufacturer": "TOLOMATIC",
-    "LocX": 3,
-    "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
-  },
-  {
-    "PartNum": "P111155",
-    "Description": "0910-1238 SWITCH MAGNT FOR BC225",
-    "Bay": 11,
-    "Shelf": "c",
-    "SubShelf": "n",
-    "Manufacturer": "TOLOMATIC",
-    "LocX": 4,
-    "LocY": 1,
-    "SizeX": 1,
-    "SizeY": 1
   },
   {
     "PartNum": "P104829",
@@ -5694,19 +5706,67 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "n",
     "Manufacturer": "TOLOMATIC",
-    "LocX": 4,
-    "LocY": 2,
+    "LocX": 1,
+    "LocY": 3,
     "SizeX": 1,
     "SizeY": 1
   },
   {
-    "PartNum": "MISC",
-    "Description": "Tolomatic Parts",
+    "PartNum": "P111155",
+    "Description": "0910-1238 SWITCH MAGNT FOR BC225",
     "Bay": 11,
     "Shelf": "c",
     "SubShelf": "n",
     "Manufacturer": "TOLOMATIC",
-    "LocX": 4,
+    "LocX": 1,
+    "LocY": 4,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P109381",
+    "Description": "RKBC210SK10 REPAIR KIT",
+    "Bay": 11,
+    "Shelf": "c",
+    "SubShelf": "n",
+    "Manufacturer": "TOLOMATIC",
+    "LocX": 2,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P104163",
+    "Description": "0124-0400 RH SLIDE-RITE COMPACT 1:1 RATIO GEARBOX 5/8IN BORE",
+    "Bay": 11,
+    "Shelf": "c",
+    "SubShelf": "n",
+    "Manufacturer": "TOLOMATIC",
+    "LocX": 2,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P106934",
+    "Description": "RKBC210SK24 REPAIR KIT",
+    "Bay": 11,
+    "Shelf": "c",
+    "SubShelf": "n",
+    "Manufacturer": "TOLOMATIC",
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 2
+  },
+  {
+    "PartNum": "P104843",
+    "Description": "RKBC210SK22 CYLINDER REPAIR KIT",
+    "Bay": 11,
+    "Shelf": "c",
+    "SubShelf": "n",
+    "Manufacturer": "TOLOMATIC",
+    "LocX": 3,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
@@ -5718,7 +5778,7 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "n",
     "Manufacturer": "TOLOMATIC",
-    "LocX": 5,
+    "LocX": 4,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
@@ -5730,7 +5790,7 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "n",
     "Manufacturer": "TOLOMATIC",
-    "LocX": 6,
+    "LocX": 5,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
@@ -5742,7 +5802,7 @@ const altParts = [
     "Shelf": "c",
     "SubShelf": "n",
     "Manufacturer": "TOLOMATIC",
-    "LocX": 7,
+    "LocX": 6,
     "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
