@@ -3720,6 +3720,54 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P111863",
+    "Description": "Z59-007  Clutch roller assy",
+    "Bay": 3,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "DEKKA",
+    "LocX": 10,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P111864",
+    "Description": "Z29-049  Clutch Roller",
+    "Bay": 3,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "DEKKA",
+    "LocX": 10,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P111865",
+    "Description": "Z02-111  Bearing, One Way Clutch",
+    "Bay": 3,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "DEKKA",
+    "LocX": 11,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P11866",
+    "Description": "Z29-054  Washer Keyed Clutch Roller",
+    "Bay": 3,
+    "Shelf": "c",
+    "SubShelf": "l",
+    "Manufacturer": "DEKKA",
+    "LocX": 11,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P104599",
     "Description": "EZ-026A RUBBER SLEEVE",
     "Bay": 3,
@@ -3727,7 +3775,7 @@ const altParts = [
     "SubShelf": "l",
     "Manufacturer": "SAMUEL PKG",
     "LocX": 10,
-    "LocY": 2,
+    "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
   },
@@ -3739,7 +3787,7 @@ const altParts = [
     "SubShelf": "l",
     "Manufacturer": "SAMUEL PKG",
     "LocX": 11,
-    "LocY": 2,
+    "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
   },
