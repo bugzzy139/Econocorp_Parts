@@ -2748,15 +2748,27 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P107041",
+    "Description": "EDWARDS 109-7Y Guard Switch",
+    "Bay": 3,
+    "Shelf": "a",
+    "SubShelf": "n",
+    "Manufacturer": "EDWARDS",
+    "LocX": 3,
+    "LocY": 1,
+    "SizeX": 2,
+    "SizeY": 4
+  },
+  {
     "PartNum": "P103466",
     "Description": "09.F5.B1B-P003 KEB 2HP CONTROLLER/ AC INVERTER  (NOTE: indexing program factory installed)",
     "Bay": 3,
     "Shelf": "a",
     "SubShelf": "n",
     "Manufacturer": "KEBCO",
-    "LocX": 4,
+    "LocX": 5,
     "LocY": 1,
-    "SizeX": 2,
+    "SizeX": 1,
     "SizeY": 4
   },
   {
@@ -3084,6 +3096,18 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P104467",
+    "Description": "DO NOT ORDER 889D-F4AC-5 DC MICRO QD CABLE 5MM  SEE P104232",
+    "Bay": 3,
+    "Shelf": "b",
+    "SubShelf": "u",
+    "Manufacturer": "ALLEN-BRADLEY",
+    "LocX": 12,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P103936",
     "Description": "(I) 700-HK32Z24 GENERAL PURPOSE SLIM LINE RELAY MAX",
     "Bay": 3,
@@ -3216,18 +3240,6 @@ const altParts = [
     "SizeY": 1
   },
   {
-    "PartNum": "P107041",
-    "Description": "(I) (BLANKET ORDER) EDWARDS 109-7Y Guard Switch",
-    "Bay": 3,
-    "Shelf": "b",
-    "SubShelf": "l",
-    "Manufacturer": "EDWARDS",
-    "LocX": 4,
-    "LocY": 1,
-    "SizeX": 1,
-    "SizeY": 2
-  },
-  {
     "PartNum": "P101918",
     "Description": "115-6Y-12K SEALED MAGNETIC GUARD SWITCH",
     "Bay": 3,
@@ -3276,14 +3288,14 @@ const altParts = [
     "SizeY": 2
   },
   {
-    "PartNum": "P100246",
-    "Description": "CBC-801-2 POWER SUPPLY 220/240V 90V 6001-448-006",
+    "PartNum": "P106456",
+    "Description": "1766-L32BWA 32PT ML 1400 DC IN RELAY OUT",
     "Bay": 3,
     "Shelf": "b",
     "SubShelf": "l",
-    "Manufacturer": "WARNER",
+    "Manufacturer": "ALLEN-BRADLEY",
     "LocX": 9,
-    "LocY": 4,
+    "LocY": 3,
     "SizeX": 2,
     "SizeY": 1
   },
@@ -3300,52 +3312,28 @@ const altParts = [
     "SizeY": 2
   },
   {
-    "PartNum": "P101981",
-    "Description": "SG2-20HR-D PROGRAMABLE LOGIC RELAY",
-    "Bay": 3,
-    "Shelf": "b",
-    "SubShelf": "l",
-    "Manufacturer": "FACTORYMATION",
-    "LocX": 11,
-    "LocY": 4,
-    "SizeX": 1,
-    "SizeY": 1
-  },
-  {
-    "PartNum": "P106456",
-    "Description": "1766-L32BWA 32PT ML 1400 DC IN RELAY OUT",
-    "Bay": 3,
-    "Shelf": "b",
-    "SubShelf": "l",
-    "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": 12,
-    "LocY": 1,
-    "SizeX": 1,
-    "SizeY": 2
-  },
-  {
-    "PartNum": "P101588",
-    "Description": "440R-N23120 CE RELAY  (CE MACHINE)",
-    "Bay": 3,
-    "Shelf": "b",
-    "SubShelf": "l",
-    "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": 12,
-    "LocY": 4,
-    "SizeX": 1,
-    "SizeY": 1
-  },
-  {
     "PartNum": "P109242",
     "Description": "TLY-A310M-BJ62AA TL-SERIES SERVO MOTOR, 230V AC, FRAME SIZE 3, 4500 RPM, ABSOLUTE ENCODER",
     "Bay": 3,
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
-    "LocX": 13,
-    "LocY": 1,
+    "LocX": 11,
+    "LocY": 3,
     "SizeX": 1,
     "SizeY": 2
+  },
+  {
+    "PartNum": "P100246",
+    "Description": "CBC-801-2 POWER SUPPLY 220/240V 90V 6001-448-006",
+    "Bay": 3,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "WARNER",
+    "LocX": 13,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
   },
   {
     "PartNum": "P101669",
@@ -3360,15 +3348,27 @@ const altParts = [
     "SizeY": 2
   },
   {
-    "PartNum": "P104467",
-    "Description": "DO NOT ORDER 889D-F4AC-5 DC MICRO QD CABLE 5MM  SEE P104232",
+    "PartNum": "P101588",
+    "Description": "440R-N23120 CE RELAY  (CE MACHINE)",
     "Bay": 3,
     "Shelf": "b",
     "SubShelf": "l",
     "Manufacturer": "ALLEN-BRADLEY",
     "LocX": 14,
     "LocY": 4,
-    "SizeX": 3,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
+    "PartNum": "P101981",
+    "Description": "SG2-20HR-D PROGRAMABLE LOGIC RELAY",
+    "Bay": 3,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "FACTORYMATION",
+    "LocX": 16,
+    "LocY": 4,
+    "SizeX": 1,
     "SizeY": 1
   },
   {
