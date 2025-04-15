@@ -4416,6 +4416,18 @@ const altParts = [
     "SizeY": 2
   },
   {
+    "PartNum": "P107121",
+    "Description": "8HS20-LPKWSS HELICAL GEAR LEFT HAND .625 Bore , .187 Keyway with setscrew",
+    "Bay": 4,
+    "Shelf": "b",
+    "SubShelf": "l",
+    "Manufacturer": "LINN GEAR",
+    "LocX": 11,
+    "LocY": 3,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P101088",
     "Description": "H1224R HELICAL GEAR RIGHT HAND",
     "Bay": 4,
