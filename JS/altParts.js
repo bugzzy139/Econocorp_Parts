@@ -4128,6 +4128,18 @@ const altParts = [
     "SizeY": 3
   },
   {
+    "PartNum": "P104083",
+    "Description": "LF880TAB K600 6IN WIDE TABBED CHAIN (MIN PURCHASE 10FT)",
+    "Bay": 4,
+    "Shelf": "a",
+    "SubShelf": "n",
+    "Manufacturer": "HABASIT",
+    "LocX": 14,
+    "LocY": 1,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "P101764",
     "Description": "225L050 TIMING BELT 3/8IN PITCH 1/2IN WIDE GEARBELT",
     "Bay": 4,
