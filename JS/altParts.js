@@ -5604,6 +5604,18 @@ const altParts = [
     "SizeY": 1
   },
   {
+    "PartNum": "P104472",
+    "Description": "IM-T-9A INTERFACE MODULE",
+    "Bay": 11,
+    "Shelf": "a",
+    "SubShelf": "n",
+    "Manufacturer": "BANNER",
+    "LocX": 12,
+    "LocY": 2,
+    "SizeX": 1,
+    "SizeY": 1
+  },
+  {
     "PartNum": "???",
     "Description": "Quick Disconnect Cable",
     "Bay": 11,
